@@ -9,7 +9,7 @@ Welcome to the Milestone 1 Project. This repository is about self branding and s
 
 Thank you so much for stopping by 
 
-##Structure
+## Structure
 
 This simple website contains :
 - HTML
@@ -27,13 +27,13 @@ The documentation in making this project is divided into two, documentation in m
 
 1.First thing to do is clone the Repository and start setting the repo
 2.Designing the layout and details in figma
-<img align='center' src='img/btp-1'>
+<img align='center' src='img/btp-1.png'>
 3.Create the HTML Structure and details
-<img align='center' src='img/btp-2'>
+<img align='center' src='img/btp-2.png'>
 4.Working on Styling the CSS 
-<img align='center' src='img/btp-3'>
+<img align='center' src='img/btp-3.png'>
 5.Script the simpe JS for better open and close nav
-<img align='center' src='img/btp-4'>
+<img align='center' src='img/btp-4.png'>
 </details>
 
 
