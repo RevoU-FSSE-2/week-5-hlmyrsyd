@@ -5,7 +5,7 @@
 
 Welcome to the Milestone 1 Project. This repository is about self branding and simple portfolio, check out the website 
 
-[hilmyrasyad.site](hilmyrasyad.site)or by click [here](hilmyrasyad.site). 
+[hilmyrasyad.site](https://hilmyrasyad.site/)or by click [here](https://hilmyrasyad.site/). 
 
 Thank you so much for stopping by 
 
@@ -77,7 +77,7 @@ Since you already down here, kindly checkout my other project below:
 [week 2](hlmyrsyd1.netlify.app) <br>
 [week 3](hlmyrsyd2.netlify.app) <br>
 [week 4](hlmyrsyd3.netlify.app) <br>
-[hilmyrasyad.site](hilmyrasyad.site) <br>
+[hilmyrasyad.site](https://hilmyrasyad.site/) <br>
 
 ***
 
